@@ -43,8 +43,8 @@ AA_PUFF_SPREAD = 18.0
 # plane1.png is PNG (alpha); others are JPG
 PLANE_FILES = [
     ("assets/plane1.png", True),    # PNG with transparency
-    ("assets/plane2.jpg", False),
-    ("assets/plane3.jpg", False),
+    ("assets/plane2.jpeg", False),
+    ("assets/plane3.jpeg", False),
     ("assets/plane4.jpg", False),
     ("assets/plane5.jpg", False),
 ]
